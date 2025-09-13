@@ -13,3 +13,6 @@ Project Objectives
 a.Analyze sales trends and customer preferences.
 b.Generate insights on popular pizza types and customer ordering habits.
 c.Use SQL queries to answer critical business questions related to pizza sales.
+
+Author-Mahak Bisht
+
